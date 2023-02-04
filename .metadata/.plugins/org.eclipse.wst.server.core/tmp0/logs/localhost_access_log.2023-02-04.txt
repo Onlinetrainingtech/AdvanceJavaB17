@@ -1,0 +1,14 @@
+127.0.0.1 - - [04/Feb/2023:19:52:25 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:52:42 +0530] "GET /AdvanceJavaSessionP1/index.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:52:43 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:52:52 +0530] "GET /AdvanceJavaSessionP1/Servlet1?uname=admin&pass=admin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:52:52 +0530] "GET /AdvanceJavaSessionP1/Servlet2 HTTP/1.1" 200 31
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:52:59 +0530] "GET /AdvanceJavaSessionP1/Servlet1?uname=adminzxczxc&pass=admin HTTP/1.1" 200 14
+127.0.0.1 - - [04/Feb/2023:19:59:17 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:59:19 +0530] "GET /AdvanceJavaSessionP1/index.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:59:27 +0530] "GET /AdvanceJavaSessionP1/Servlet1?uname=zczc&pass=zcxz HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:19:59:27 +0530] "GET /AdvanceJavaSessionP1/Servlet3 HTTP/1.1" 200 103
+127.0.0.1 - - [04/Feb/2023:20:08:56 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:20:09:02 +0530] "GET /AdvanceJavaHiddenForm/FirstPage.jsp HTTP/1.1" 200 258
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:20:09:16 +0530] "GET /AdvanceJavaHiddenForm/Servlet1?email=azar%40gmail.com HTTP/1.1" 200 138
+0:0:0:0:0:0:0:1 - - [04/Feb/2023:20:09:25 +0530] "GET /AdvanceJavaHiddenForm/Servlet2?em=azar%40gmail.com HTTP/1.1" 200 40

@@ -1,0 +1,15 @@
+127.0.0.1 - - [03/Feb/2023:19:48:49 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:49:12 +0530] "GET /AdvanceJavaP2/index.jsp HTTP/1.1" 200 308
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:49:13 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:49:26 +0530] "GET /AdvanceJavaP2/Servlet1?uname=admin&pass=admin%40123 HTTP/1.1" 200 54
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:51:38 +0530] "GET /AdvanceJavaP2/index.jsp HTTP/1.1" 200 308
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:51:40 +0530] "GET /AdvanceJavaP2/index.jsp HTTP/1.1" 200 308
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:51:45 +0530] "GET /AdvanceJavaP2/Servlet1?uname=admin&pass=admin%40123 HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:51:54 +0530] "GET /AdvanceJavaP2/Servlet1?uname=adminsdfsdf&pass=admin%40123 HTTP/1.1" 200 73
+127.0.0.1 - - [03/Feb/2023:19:56:48 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:56:52 +0530] "GET /AdvanceJavaP2/index.jsp HTTP/1.1" 200 308
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:57:02 +0530] "GET /AdvanceJavaP2/Servlet1?uname=admin&pass=admin%40123 HTTP/1.1" 200 156
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:19:57:07 +0530] "GET /AdvanceJavaP2/Servlet1?uname=adminsdfsdf&pass=admin%40123 HTTP/1.1" 200 408
+127.0.0.1 - - [03/Feb/2023:20:12:55 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:20:13:05 +0530] "GET /AdvanceJavaSC/index.jsp HTTP/1.1" 200 225
+0:0:0:0:0:0:0:1 - - [03/Feb/2023:20:13:11 +0530] "GET /AdvanceJavaSC/Servlet1? HTTP/1.1" 200 52

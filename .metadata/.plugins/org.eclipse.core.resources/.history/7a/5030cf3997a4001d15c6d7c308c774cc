@@ -1,0 +1,13 @@
+
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet implementation class Servlet2
+ */
+@WebServlet("/Servlet2")
+public class Servlet2 extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+}
