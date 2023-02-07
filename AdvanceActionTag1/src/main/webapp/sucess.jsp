@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="Servlet1" method="get">
-Email:<input type="text" name="email"/>
-<input type="submit" value="Click"/>
-</form>
+<h1>LoginSucess!!!</h1>
 </body>
 </html>
